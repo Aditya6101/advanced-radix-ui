@@ -10,6 +10,14 @@ export default function Home() {
             Switch
           </Link>
         </li>
+        <li>
+          <Link
+            href="/apple-selector-group"
+            className="text-blue-400 underline"
+          >
+            Apple Selector Group
+          </Link>
+        </li>
       </ol>
     </main>
   );
