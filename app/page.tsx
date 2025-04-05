@@ -18,6 +18,11 @@ export default function Home() {
             Apple Selector Group
           </Link>
         </li>
+        <li>
+          <Link href="/ios-slider" className="text-blue-400 underline">
+            iOS Slider
+          </Link>
+        </li>
       </ol>
     </main>
   );
